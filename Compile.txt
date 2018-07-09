@@ -1,0 +1,2 @@
+g++ openGL.cpp -o open -lGL -lGLU -lglut
+gcc -O2 -o graham_scan graham_scan.c
